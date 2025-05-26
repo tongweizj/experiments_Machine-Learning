@@ -11,5 +11,7 @@ https://github.com/ageron/handson-ml3
 
 
 
-### Deep Learning basics with Python, TensorFlow and Keras
-https://www.youtube.com/playlist?list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN
+### TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial
+
+##### 视频资源
+https://www.youtube.com/watch?v=tPYj3fFJGjk&t=272s
