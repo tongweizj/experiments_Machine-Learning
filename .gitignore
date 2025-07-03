@@ -172,3 +172,23 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Python
+__pycache__/
+*.pyc
+*.pkl
+*.h5
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Data
+datasets/*.zip
+datasets/*.csv
+data/
+*.log
+
+# Environment
+.venv/
+env/
+*.egg-info/
