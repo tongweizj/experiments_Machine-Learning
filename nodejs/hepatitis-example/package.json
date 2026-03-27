@@ -1,0 +1,26 @@
+{
+  "name": "hepatitis-example",
+  "version": "0.0.0",
+  "description": "HepatitisExample",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.3.0",
+    "body-parser": "^1.19.2",
+    "compression": "^1.7.4",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-session": "^1.17.2",
+    "method-override": "^3.0.0",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  },
+  "scripts": {
+    "start": "nodemon server",
+    "dev": "nodemon server"
+  }
+}

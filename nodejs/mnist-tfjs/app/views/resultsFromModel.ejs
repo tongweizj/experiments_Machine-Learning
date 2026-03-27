@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>MNIST Prediction</title>
+    <link rel="stylesheet" type="text/css" href="css/addstyle.css" />
+
+</head>
+
+<body>
+	
+    <h2> Prediction Results for the test set from the loaded Model </h2>
+    <h3><%= results %></h3>
+    <table class ="border-table">
+        
+        <tr class = "border-table">
+            <td class="border-table">First test image</td>
+
+            <td class="border-table"><%= resultForTest1 %></td>
+
+        </tr>
+        <tr class="border-table">
+            <td class="border-table">Second test image</td>
+
+            <td class="border-table"><%= resultForTest2 %></td>
+
+        </tr>
+        <tr class="border-table">
+            <td class="border-table">Third test image</td>
+
+            <td class="border-table"><%= resultForTest3 %></td>
+
+            
+        </tr>
+    </table>
+    
+
+    
+    
+</body>
+</html>

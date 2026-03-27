@@ -192,3 +192,4 @@ data/
 .venv/
 env/
 *.egg-info/
+**/node_modules/
